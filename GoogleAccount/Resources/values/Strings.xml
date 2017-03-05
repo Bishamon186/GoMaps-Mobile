@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">GoMaps</string>
+    <string name="btn_text">Sing in with Google </string>
+    <string name="TextView_text">Create An Account </string>
+</resources>
